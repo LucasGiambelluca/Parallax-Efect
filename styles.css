@@ -103,7 +103,7 @@ header nav ul li  a:hover:not(.login){
     -webkit-text-fill-color:transparent;
     font-size: 190px;
     font-family: Myth2;
-    color: transparent;
+    color: var(--main-color);
 
 }
 
